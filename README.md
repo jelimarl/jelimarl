@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there!
+
+I’m a Frontend Developer and I love finding solutions. There’s a connection between what we can create and how you feel while you do it. I create digital tools that have a positive effect on people, because I feel great when I develop. 
 
 <!--
 **jelimarl/jelimarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
